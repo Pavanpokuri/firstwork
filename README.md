@@ -11,3 +11,7 @@
 ![acharya](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202104       /Acharya_release_postponed_Chir_1200x768.jpeg?zLFNWp1GD1cuS8FBtzf8BFF89pHsbuk.&size=1200:675)
 
 # mastering markdown github
+
+🙂
+
+# You can create a new paragraph by leaving a blank line between lines of text
